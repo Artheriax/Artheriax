@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=735BF7&center=true&width=435&lines=Hi+there...;My+name+is+Pablo.;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=735BF7&width=435&lines=Hi+there...;My+name+is+Pablo.;Welcome+to+my+Github+profile!)
 
 I'm a passionate Software Development student fluent in Dutch and English. I have experience with JavaScript, HTML, LUA, and Python, and I'm adept at quickly learning and adapting to new technologies. My journey has led me to work with frameworks like Symfony and WordPress. Recently, I've been deeply involved with AI image generator web UIs such as SD.NEXT, Forge, and AUTOMATIC1111, teaching myself to train AI characters, LoRAs, and various checkpoints used for image generation.
 
