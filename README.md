@@ -34,9 +34,8 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 - Optimizing Stable Diffusion workflows ⚙️
 - Model checkpoint customization 🎨
 
-**Contributor to:**  
+**Working with:**  
 [![SD.NEXT](https://img.shields.io/badge/SD.NEXT-Contributor-735BF7?style=flat-square)](https://github.com/vladmandic/sdnext)
-**Other web UIs I've used:**
 [![Forge](https://img.shields.io/badge/Forge-Enthusiast-FF6F00?style=flat-square)](https://github.com/lllyasviel/stable-diffusion-webui-forge)  
 [![AUTOMATIC1111](https://img.shields.io/badge/AUTOMATIC1111-Power%20User-00BFFF?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
