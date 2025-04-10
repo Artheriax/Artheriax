@@ -51,10 +51,6 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
   </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=artheriax&theme=dark&hide_border=true" alt="GitHub Streak">
-</div>
-
 ---
 
 ### 🏆 Achievements
