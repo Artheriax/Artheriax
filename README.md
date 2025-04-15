@@ -46,7 +46,7 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 <div align="center">
   <a href="https://github.com/artheriax">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artheriax&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://streak-stats.demolab.com?user=Artheriax&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+<!--     <img height="180em" src="https://streak-stats.demolab.com?user=Artheriax&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artheriax&layout=compact&theme=dark&hide_border=true"/>
   </a>
 </div>
