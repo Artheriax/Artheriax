@@ -36,8 +36,7 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 
 **Working with:**  
 [![SD.NEXT](https://img.shields.io/badge/SD.NEXT-Contributor-735BF7?style=flat-square)](https://github.com/vladmandic/sdnext)
-[![Forge](https://img.shields.io/badge/Forge-Enthusiast-FF6F00?style=flat-square)](https://github.com/lllyasviel/stable-diffusion-webui-forge)  
-[![AUTOMATIC1111](https://img.shields.io/badge/AUTOMATIC1111-Power%20User-00BFFF?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[![ComfyUI](https://img.shields.io/badge/Forge-Enthusiast-FF6F00?style=flat-square)]([https://github.com/lllyasviel/stable-diffusion-webui-forge](https://github.com/Comfy-Org/ComfyUI))  
 
 ---
 
