@@ -41,23 +41,6 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/artheriax">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artheriax&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<!--     <img height="180em" src="https://streak-stats.demolab.com?user=Artheriax&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artheriax&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
-
----
-
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Artheriax&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-hellmann-a1a53132a/)
