@@ -4,8 +4,8 @@
 
 ### 💻 About Me
 
-🎓 **Software Development Student** | 🌍 **Dutch & English Fluent** | 🚀 **Tech Explorer**  
-I'm a passionate learner with a knack for quickly mastering new technologies. My journey spans from web fundamentals (JavaScript/HTML) to AI-powered image generation. I thrive on bridging creativity with technical execution.
+🎓 **Applied Data Science & AI Student** | 🌍 **Dutch & English Fluent** | 🚀 **Tech Explorer**  
+I'm a passionate learner with a knack for quickly mastering new technologies. My journey spans from web fundamentals (JavaScript/HTML) to AI-powered image generation, and now deeper into Python for data science and AI. I also build interactive experiences with Lua/Luau on Roblox. I thrive on bridging creativity with technical execution.
 
 **What drives me?**  
 ✅ Building intuitive solutions | ✅ Pushing AI boundaries | ✅ Open-source collaboration  
@@ -18,6 +18,7 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/-Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### **Frameworks & Tools**
@@ -36,7 +37,7 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 
 **Working with:**  
 [![SD.NEXT](https://img.shields.io/badge/SD.NEXT-Contributor-735BF7?style=flat-square)](https://github.com/vladmandic/sdnext)
-[![ComfyUI](https://img.shields.io/badge/Forge-Enthusiast-FF6F00?style=flat-square)]([https://github.com/lllyasviel/stable-diffusion-webui-forge](https://github.com/Comfy-Org/ComfyUI))  
+[![ComfyUI](https://img.shields.io/badge/ComfyUI-Enthusiast-FF6F00?style=flat-square)](https://github.com/comfy-org/ComfyUI)
 
 ---
 
