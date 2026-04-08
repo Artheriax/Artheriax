@@ -54,8 +54,7 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 ---
 
 ### 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=artheriax&theme=darkhub&no-frame=true&row=2&column=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Artheriax)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
