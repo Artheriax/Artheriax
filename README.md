@@ -1,43 +1,100 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9F67F7&width=435&lines=Hello+there...;My+name+is+Pablo.;Welcome+to+my+github+profile!)
+# Hi there 👋 I'm Pablo
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=9F67F7&center=true&vCenter=true&width=700&lines=Applied+Data+Science+%26+AI+Student;Generative+AI+Developer;Open+Source+Contributor;Machine+Learning+Engineer+in+Progress;Cyberpunk+2077+Modder)
+
+> Building software, training AI models, and contributing to open source.
 
 ---
 
-### 💻 About Me
+## 👨‍💻 About Me
 
-🎓 **Applied Data Science & AI Student** | 🌍 **Dutch & English Fluent** | 🚀 **Tech Explorer**  
-I'm a passionate learner with a knack for quickly mastering new technologies. My journey spans from web fundamentals (JavaScript/HTML) to AI-powered image generation, and now deeper into Python for data science and AI. I also build interactive experiences with Lua/Luau on Roblox. I thrive on bridging creativity with technical execution.
+I'm Pablo, a second-year **Applied Data Science & Artificial Intelligence** student from the Netherlands.
 
-**What drives me?**  
-✅ Building intuitive solutions | ✅ Pushing AI boundaries | ✅ Open-source collaboration  
+My interests revolve around **Machine Learning**, **Computer Vision**, **Generative AI**, and **Software Engineering**. I enjoy understanding how complex systems work and making them faster, cleaner and easier to use.
+
+Outside my studies I contribute to open-source AI projects, train Stable Diffusion models, build AI workflows, optimize existing Lua scripting mods for games like Cyberpunk 2077, GTA 5 and Baldur's gate 3 and create Roblox games from scratch.
+
+I'm currently working toward becoming a **Machine Learning Engineer** with a strong focus on generative AI and computer vision.
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 Machine Learning & Deep Learning
+- 🎨 Generative AI
+- 📷 Computer Vision
+- ⚡ AI workflow optimization
+- 💻 Python development
+- 🎮 Lua scripting & modding (and Roblox game development)
+- 🌍 Open Source Contributions
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### **Core Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Luau](https://img.shields.io/badge/-Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+#### Core Languages
+- Python
+- JavaScript
+- Lua
+- Luau
+- PHP
+- HTML5
 
-#### **Frameworks & Tools**
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### SQL
+- MySQL
+- SQLite
+
+#### Apps
+Git
+GitHub
+VS Code
+PHPStorm
+XAMPP
+Office 365
+Roblox Studio
+
+#### Frameworks/Libraries
+Symfony
+YOLO (Learning)
+PyTorch (Learning)
+TensorFlow (Learning)
+
+Windows
+Linux
 
 ---
 
-### 🤖 AI & Image Generation
+## 🤖 Generative AI
 
-**Specialized in:**  
-- Training custom AI characters & LoRAs 🧠
-- Optimizing Stable Diffusion workflows ⚙️
-- Model checkpoint customization 🎨
+I enjoy experimenting with and optimizing modern generative AI pipelines.
 
-**Working with:**  
-[![SD.NEXT](https://img.shields.io/badge/SD.NEXT-Contributor-735BF7?style=flat-square)](https://github.com/vladmandic/sdnext)
-[![ComfyUI](https://img.shields.io/badge/ComfyUI-Enthusiast-FF6F00?style=flat-square)](https://github.com/comfy-org/ComfyUI)
+### Experience
+
+- Character LoRA training
+- Style LoRA training
+- Dataset preparation
+- Image captioning & tagging
+- Stable Diffusion optimization
+- Workflow optimization
+- Model benchmarking
+- Prompt engineering
+- AI performance tuning
+
+### Platforms
+
+- SD.NEXT
+- ComfyUI
+- Kohya_SS
+- OneTrainer
+- Ostris AI-Toolkit (Learning)
+
+---
+
+## ❤️ Open Source
+
+I contribute to whatever project catches my attention or whenever I need something where other people can also benefit from.
+
+I enjoy finding bugs, improving functionality, optimizing workflows and contributing features back to the community.
 
 ---
 
@@ -50,6 +107,15 @@ I'm a passionate learner with a knack for quickly mastering new technologies. My
 -->
 ---
 
+## ☕ Fun Facts
+
+- 🎮 Cyberpunk 2077 enthusiast
+- 🐱 Cat lover
+- 🤖 AI workflow optimizer
+- 🧩 I enjoy reverse engineering how systems work
+- 🌙 Most productive when solving difficult problems (at night)
+
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=artheriax&color=735BF7&style=flat-square" alt="Profile Views" /> 
   <a href="https://github.com/artheriax?tab=followers">
