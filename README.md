@@ -39,6 +39,7 @@ I'm currently working toward becoming a **Machine Learning Engineer** with a str
 - Luau
 - PHP
 - HTML5
+- C/C#/C++ (Learning)
 
 #### SQL
 - MySQL
