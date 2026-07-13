@@ -40,6 +40,7 @@ I'm currently working toward becoming a **Machine Learning Engineer** with a str
 - PHP
 - HTML5
 - C/C#/C++ (Learning)
+- Rust (Want to learn)
 
 #### SQL
 - MySQL
