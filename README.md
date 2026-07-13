@@ -45,22 +45,24 @@ I'm currently working toward becoming a **Machine Learning Engineer** with a str
 - SQLite
 
 #### Apps
-Git
-GitHub
-VS Code
-PHPStorm
-XAMPP
-Office 365
-Roblox Studio
+- Git
+- GitHub
+- VS Code
+- PHPStorm
+- XAMPP
+- Office 365
+- Roblox Studio
 
 #### Frameworks/Libraries
-Symfony
-YOLO (Learning)
-PyTorch (Learning)
-TensorFlow (Learning)
+- Symfony
+- YOLO (Learning)
+- PyTorch (Learning)
+- TensorFlow (Learning)
 
-Windows
-Linux
+#### OS
+- Windows
+- Linux
+- Android
 
 ---
 
